@@ -8,7 +8,17 @@ Youtube :youtube.com/lazycoders
 """
 from django.contrib import admin
 from django.urls import path
-from ecom import views
+# 
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# from ecom import views
+# 
+from ecommerce.ecom import views
+
+
+
+
 from django.contrib.auth.views import LoginView,LogoutView
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -18,7 +28,9 @@ urlpatterns = [
     path('aboutus', views.aboutus_view),
     path('contactus', views.contactus_view,name='contactus'),
     path('search', views.search_view,name='search'),
-    path('send-feedback', views.send_feedback_view,name='send-feedback'),
+    # 
+    path('aboutus/', views.aboutus_view, name='aboutus'),  # ✅ Correct with trailing slash
+
     path('view-feedback', views.view_feedback_view,name='view-feedback'),
 
     path('adminclick', views.adminclick_view),
