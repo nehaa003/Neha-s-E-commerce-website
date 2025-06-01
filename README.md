@@ -6,16 +6,16 @@
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](static/screenshots/admin homepage.png)
+![Admin Dashboard](static/screenshots/admin%20homepage.png)
 
 ### Customer Homepage
-![Customer Homepage](static/screenshots/customer home.png)
+![Customer Homepage](static/screenshots/customer%20home.png)
 
 ### Cart
 ![Cart Page](static/screenshots/cart.png)
 
 ### Track Orders
-![Order Tracking](static/screenshots/orders page.png)
+![Order Tracking](static/screenshots/orders%20page.png)
 
 ---
 
