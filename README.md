@@ -6,10 +6,10 @@
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](static/screenshots/admin%20homepage.png)
+![Admin Dashboard](static/screenshots/admin_homepage.png)
 
 ### Customer Homepage
-![Customer Homepage](static/screenshots/customer%20home.png)
+![Customer Homepage](static/screenshots/customer_homepage.png)
 
 ### Cart
 ![Cart Page](static/screenshots/cart.png)
