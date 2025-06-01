@@ -6,7 +6,7 @@
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](static/screenshots/admin_dashboard.png)
+![Admin Dashboard](static/screenshots/admin_homepage.png)
 
 ### Customer Homepage
 ![Customer Homepage](static/screenshots/customer_home.png)
@@ -15,7 +15,7 @@
 ![Cart Page](static/screenshots/cart.png)
 
 ### Track Orders
-![Order Tracking](static/screenshots/orders.png)
+![Order Tracking](static/screenshots/orders_page.png)
 
 ---
 
