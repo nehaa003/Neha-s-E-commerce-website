@@ -48,7 +48,7 @@
 - Purchase action without cart items shows a warning.
 
 ---
-
+<!-- 
 ## 🚀 How to Run This Project
 
 ### Prerequisites:
@@ -59,4 +59,4 @@
 ```bash
 pip install django==3.0.5
 pip install django-widget-tweaks
-pip install xhtml2pdf
+pip install xhtml2pdf -->
