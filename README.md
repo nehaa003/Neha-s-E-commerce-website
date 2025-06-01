@@ -6,7 +6,7 @@
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](static/screenshots/admin_Dashboard.png)
+![Admin Dashboard](static/screenshots/Admin_Dashboard.png)
 
 ### Customer Homepage
 ![Customer Homepage](static/screenshots/customer_homepage.png)
